@@ -9,11 +9,16 @@
 ___
 
 ## Features
-<p><h6>* Added Backdrop Shadows</h6></p>
-<p><h6>* Bottom Navigation bar</h6></p>
-<p><h6>* Implements SVG Vector Icon</h6></p>
-<p><h6>* New Social Carousel Introduced </h6></p>
+* `Added Backdrop Shadows`
 ​
+
+* `Bottom Navigation bar`
+​
+
+* `Implements SVG Vector Icon`
+​
+
+* `New Social Carousel Introduced`
 ​
 
 
@@ -27,13 +32,13 @@ ___
 Include `mobile` and `icons` folder in your target project file.
 
 ```html
-<link rel='stylesheet' href='mobile_res.css'/>
-<link rel='stylesheet' href='flat_styles.css'/>
+<link rel='stylesheet' href='mobile/mobile_res.css'/>
+<link rel='stylesheet' href='mobile/flat_styles.css'/>
 
 ```
 ### Basic usage
-All new classes for styling is the successor to bootstrap.css class 
-#### Requirement
+All new classes for styling is the successor to bootstrap.css classes 
+#### Requirements
 
 ```html
 <link rel='stylesheet' href='bootstrap.min..css'/>
@@ -41,5 +46,19 @@ All new classes for styling is the successor to bootstrap.css class
 
 ```
 
-<img align="right" src="https://github.com/vivekverma007/Amrapali-Mobile/blob/master/preview/img_opacity.png" width="280" /> 
+<img align="right" src="https://github.com/vivekverma007/Amrapali-Mobile/blob/master/preview/img_social.gif" width="280" /> 
+
+## Social Carousel
+--
+A Carousel based plugin provides all social links available for this organization
+
+###Implementation
+
+1. Copy `include/social_carousel.html` in your target folder
+
+2. Add this php code in your index.php file
+
+```php
+<?php include 'include/social_carousel.html';?>
+```
 
