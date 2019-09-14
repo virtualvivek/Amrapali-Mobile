@@ -1,9 +1,9 @@
 <img align="right" src="https://github.com/vivekverma007/Amrapali-Mobile/blob/master/preview/img_intro.png" width="280" /> 
 
 
-<p><h1 align="left">AMRAPALI MOBILE</h1></p>
+<p><h1 align="left">📱 AMRAPALI MOBILE</h1></p>
 
-<h4>A UI UX improvement which provides modern mobile flat interface </h4>
+<h4>A UI UX improvement provides modern mobile flat interface </h4>
 
 
 ___
@@ -27,6 +27,12 @@ ___
 <img align="left" src="https://github.com/vivekverma007/Amrapali-Mobile/blob/master/preview/img_menu.png" width="280" /> 
 
 
+
+
+​
+​
+​
+​
 ## Installation
 
 Include `mobile` and `icons` folder in your target project file.
@@ -48,11 +54,18 @@ All new classes for styling is the successor to bootstrap.css classes
 
 <img align="right" src="https://github.com/vivekverma007/Amrapali-Mobile/blob/master/preview/img_social.gif" width="280" /> 
 
+
+
+
+​
+​
+​
+​
 ## Social Carousel
---
+
 A Carousel based plugin provides all social links available for this organization
 
-###Implementation
+### Implementation
 
 1. Copy `include/social_carousel.html` in your target folder
 
@@ -61,4 +74,29 @@ A Carousel based plugin provides all social links available for this organizatio
 ```php
 <?php include 'include/social_carousel.html';?>
 ```
+
+
+
+
+
+<img align="left" src="https://github.com/vivekverma007/Amrapali-Mobile/blob/master/preview/img_opacity.png" width="280" /> 
+
+
+
+
+​
+​
+​
+​
+
+
+## Browser Support
+
+Mobile First.
+
+All types work in Chrome and Firefox.
+
+[![Twitter](https://img.shields.io/badge/Twitter-@Vivekverma__-blue.svg?style=flat)](http://twitter.com/Vivekverma__)
+[![Codepen](https://img.shields.io/badge/Codepen-@vivekverma007-orange.svg?style=flat)](http://codepen.com/vivekverma007)
+[![Instagram](https://img.shields.io/badge/Instagram-@vivekverma__-pink.svg?style=flat)](http://instagram.com/vivekverma__)
 
