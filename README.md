@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/vivekverma007/Amrapali-Mobile/blob/master/preview/img_intro.png" width="280" /> 
+<img align="right" src="https://github.com/vivekverma007/Amrapali-Mobile/blob/master/preview/imgIntro.png" width="280" /> 
 
 
 <p><h1 align="left">📱 AMRAPALI MOBILE</h1></p>
