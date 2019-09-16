@@ -100,3 +100,8 @@ All types work in Chrome and Firefox.
 [![Codepen](https://img.shields.io/badge/Codepen-@vivekverma007-orange.svg?style=flat)](http://codepen.com/vivekverma007)
 [![Instagram](https://img.shields.io/badge/Instagram-@vivekverma__-pink.svg?style=flat)](http://instagram.com/vivekverma__)
 
+### Status
+![GitHub release](https://img.shields.io/badge/release-v.1.024-darklime.svg?style=flat)
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekverma007/Amrapali-Mobile.svg?color=yellow)
+
