@@ -101,6 +101,8 @@ All types work in Chrome and Firefox.
 [![Instagram](https://img.shields.io/badge/Instagram-@vivekverma__-pink.svg?style=flat)](http://instagram.com/vivekverma__)
 
 ### Status
+![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/Amrapali-Mobile.svg?color=orange)
+
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekverma007/Amrapali-Mobile.svg?color=yellow)
 
 ![GitHub release](https://img.shields.io/badge/release-v.1.024-darklime.svg?style=flat)
