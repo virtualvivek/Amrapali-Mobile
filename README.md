@@ -98,7 +98,7 @@ All types work in Chrome and Firefox.
 
 [![Twitter](https://img.shields.io/badge/Twitter-@Vivekverma__-blue.svg?style=flat)](http://twitter.com/Vivekverma__)
 [![Codepen](https://img.shields.io/badge/Codepen-@vivekverma007-orange.svg?style=flat)](http://codepen.com/vivekverma007)
-[![Instagram](https://img.shields.io/badge/Instagram-@vivekverma__-pink.svg?style=flat)](http://instagram.com/vivekverma__)
+[![Instagram](https://img.shields.io/badge/Instagram-@vivekverma__-ff69b4.svg?style=flat)](http://instagram.com/vivekverma__)
 
 ### Status
 ![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/Amrapali-Mobile.svg?color=orange)
