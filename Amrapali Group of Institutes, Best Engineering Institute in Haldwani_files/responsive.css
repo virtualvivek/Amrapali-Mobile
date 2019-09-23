@@ -1,0 +1,306 @@
+/* Extra small devices (phones, less than 768px) */
+@media (max-width : 766px) {
+/*Homepage*/
+.hero-slide{
+    margin-top: 50px;
+}
+
+.content-wrapper {
+	top: 0;
+	margin-bottom: 60px;
+}
+
+.intro-wrapper {
+	background: #fff;
+}
+
+
+/*less padding for extra small devices*/
+.intro-wrapper,
+.service-wrapper,
+.advantages-wrapper,
+.handover-wrapper,
+.testimonial-wrapper,
+.trusted-client-wrapper,
+.subscription-wrapper,
+.support-wrapper,
+.about-us-wrapper,
+.team-wrapper,
+.job-page-wrapper,
+.faq-wrapper,
+.contact-us-wrapper {
+	padding: 60px 20px;
+}
+
+/*advantages-wrapper*/
+.experiance-tab-content,
+.our-progress,
+.capability-tab-content,
+.handover-work-thumb {
+	margin-bottom: 30px;
+}
+
+/*service-wrapper*/
+.media-left, 
+.media-right, 
+.media-body {
+	display: block;
+	margin-bottom: 20px;
+}
+/*Handover-wrapper*/
+.handover-work-thumb {
+	margin-bottom: 30px;
+}
+.handover-wrapper .carousel-indicators {
+	margin-left: inherit;
+	width: 100%;
+}
+
+/*testimonial-wrapper*/
+.testimonial-wrapper .carousel-indicators {
+	right: 0;
+	left: inherit;
+	bottom: -30px;
+	width: 100%;
+}
+.testimonial-wrapper .client-testimonial {
+	padding: 0 0 0 50px;
+	font-size: 16px;
+	line-height: 30px;
+
+}
+/*footer-wrapper*/
+.social-link {
+	margin-bottom: 60px;
+}
+
+/*support-wrapper*/
+.support-wrapper a.btn {
+	padding: 14px 12px;
+}
+
+
+/*About Us Page*/
+.about-us-slider-wrapper {
+	padding: 0 20px;
+}
+.about-us-slider-wrapper .carousel-control.left {
+	left: 80%;
+}
+.about-us-slider-wrapper .carousel-control.right {
+	right: -22px;
+}
+
+.download-box-wrapper {
+	padding: 60px 30px;
+}
+.download-box ul li {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+
+/*Blog Page*/
+.inner-content {
+	padding: 60px 20px;
+}
+
+
+.pagination-wrap {
+	margin-bottom: 40px;
+}
+
+/*Blog Single Page*/
+.comments-wrapper .media-left, 
+.comments-wrapper .media-right, 
+.comments-wrapper .media-body {
+	display: block;
+}
+
+.comments-wrapper form {
+	margin-bottom: 40px;
+}
+
+
+/*Contact Page*/
+.input-group.text-area {
+	margin-left: inherit;
+}
+
+
+/*Typograpgy Page*/
+.typography-page-wrapper {
+	padding: 60px 20px;
+}
+.typography-page-wrapper .button-style,
+.typography-page-wrapper .tab-style {
+	margin-bottom: 30px;
+}
+
+
+}
+
+/* Landscape Mobile */
+@media only screen and (min-width : 480px) and (max-width : 767px) {
+
+/*service-wrapper*/
+.media-left, 
+.media-right, 
+.media-body {
+	display: table-cell;
+	margin-bottom: 0;
+}
+
+
+/*About Us Page*/
+.about-us-slider-wrapper .carousel-control.left {
+	left: 84%;
+}
+.about-us-slider-wrapper .carousel-control.right {
+	right: 0;
+}
+.download-box-wrapper {
+	padding: 60px;
+}
+
+
+
+/*Blog Single Page*/
+.comments-wrapper .media-left, 
+.comments-wrapper .media-right, 
+.comments-wrapper .media-body {
+	display: block;
+}
+
+
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width : 768px) and (max-width : 991px) {
+
+/*Homepage*/
+
+.intro-wrapper {
+	background: #fff;
+}
+
+
+.our-progress {
+	display: block;
+}
+
+.our-progress,
+.capability-tab-content,
+.handover-work-thumb {
+	margin-bottom: 30px;
+}
+
+.handover-wrapper .carousel-indicators {
+	margin-left: inherit;
+	width: 100%;
+}
+
+/*testimonial-wrapper*/
+.testimonial-wrapper .carousel-indicators {
+	right: 0;
+	left: inherit;
+	bottom: 20px;
+	width: 100%;
+}
+.testimonial-wrapper .client-testimonial {
+	padding: 0 0 0 50px;
+	font-size: 16px;
+	line-height: 30px;
+
+}
+
+/*footer-wrapper*/
+.social-link {
+	margin-bottom: 60px;
+}
+
+
+
+/*About Us Page*/
+.about-us-slider-wrapper {
+	padding: 0 60px;
+}
+.about-us-slider-wrapper .carousel-control.left {
+	left: 88%;
+}
+.about-us-slider-wrapper .carousel-control.right {
+	right: 0;
+}
+
+
+/*Blog Single Page*/
+.comments-wrapper .media-left, 
+.comments-wrapper .media-right, 
+.comments-wrapper .media-body {
+	display: block;
+}
+
+/*Contact Page*/
+.input-group.text-area {
+	margin-left: inherit;
+}
+
+
+
+/*Typograpgy Page*/
+.typography-page-wrapper .button-style,
+.typography-page-wrapper .tab-style {
+	margin-bottom: 30px;
+}
+
+}
+
+
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width : 992px) and (max-width : 1199px) {
+
+/*Homepage*/
+/*testimonial-wrapper*/
+.testimonial-wrapper .carousel-indicators {
+	right: 0;
+	left: inherit;
+	bottom: 20px;
+	width: 100%;
+}
+.testimonial-wrapper .client-testimonial {
+	padding: 20px 0 0 50px;
+
+}
+
+
+/*About Us Page*/
+.about-us-slider-wrapper .carousel-control.left {
+	left: 45%;
+}
+.about-us-slider-wrapper .carousel-control.right {
+	right: 48%;
+}
+
+
+/*Four Column Portfolio Page*/
+.four-column .portfolio-item {
+    min-height: 120px;
+}
+
+.download-box ul li a {
+	font-size: 18px;
+}
+
+
+
+}
+
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width : 1200px) and (max-width : 1280px) {
+
+
+}
+
