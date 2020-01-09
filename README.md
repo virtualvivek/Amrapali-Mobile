@@ -105,7 +105,7 @@ All types work in Chrome and Firefox.
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekverma007/Amrapali-Mobile.svg?color=yellow)
 
-![GitHub release](https://img.shields.io/badge/release-v.2.0Stable-darklime.svg?style=flat)
+![GitHub release](https://img.shields.io/badge/release-v.2.0-darklime.svg?style=flat)
 
 
 
